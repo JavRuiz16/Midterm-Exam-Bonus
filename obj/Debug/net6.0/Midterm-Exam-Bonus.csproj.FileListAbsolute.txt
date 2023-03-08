@@ -1,0 +1,15 @@
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Midterm Bonus\Midterm-Exam-Bonus\bin\Debug\net6.0\Midterm-Exam-Bonus.exe
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Midterm Bonus\Midterm-Exam-Bonus\bin\Debug\net6.0\Midterm-Exam-Bonus.deps.json
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Midterm Bonus\Midterm-Exam-Bonus\bin\Debug\net6.0\Midterm-Exam-Bonus.runtimeconfig.json
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Midterm Bonus\Midterm-Exam-Bonus\bin\Debug\net6.0\Midterm-Exam-Bonus.dll
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Midterm Bonus\Midterm-Exam-Bonus\bin\Debug\net6.0\Midterm-Exam-Bonus.pdb
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Midterm Bonus\Midterm-Exam-Bonus\obj\Debug\net6.0\Midterm-Exam-Bonus.csproj.AssemblyReference.cache
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Midterm Bonus\Midterm-Exam-Bonus\obj\Debug\net6.0\Midterm-Exam-Bonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Midterm Bonus\Midterm-Exam-Bonus\obj\Debug\net6.0\Midterm-Exam-Bonus.AssemblyInfoInputs.cache
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Midterm Bonus\Midterm-Exam-Bonus\obj\Debug\net6.0\Midterm-Exam-Bonus.AssemblyInfo.cs
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Midterm Bonus\Midterm-Exam-Bonus\obj\Debug\net6.0\Midterm-Exam-Bonus.csproj.CoreCompileInputs.cache
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Midterm Bonus\Midterm-Exam-Bonus\obj\Debug\net6.0\Midterm-Exam-Bonus.dll
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Midterm Bonus\Midterm-Exam-Bonus\obj\Debug\net6.0\refint\Midterm-Exam-Bonus.dll
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Midterm Bonus\Midterm-Exam-Bonus\obj\Debug\net6.0\Midterm-Exam-Bonus.pdb
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Midterm Bonus\Midterm-Exam-Bonus\obj\Debug\net6.0\Midterm-Exam-Bonus.genruntimeconfig.cache
+C:\Users\JavRu\Desktop\Spring 2023\Programming Bus Apps\Midterm Bonus\Midterm-Exam-Bonus\obj\Debug\net6.0\ref\Midterm-Exam-Bonus.dll
