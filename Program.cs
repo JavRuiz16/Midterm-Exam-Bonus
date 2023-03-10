@@ -28,7 +28,7 @@ namespace MidtermBonus
         public string HumanDecision()
         {
             string s = Console.ReadLine();
-            while(!(s.Equals("rock")|| s.Equals("paper")|| s.Equals("seissors")))
+            while(!(s.Equals("rock")|| s.Equals("paper")|| s.Equals("scissors")))
             {
                 Console.WriteLine("Invalid Input");
                 s =Console.ReadLine();
@@ -46,7 +46,7 @@ namespace MidtermBonus
                 return "rock";
             if (rnd_num == 1)
                 return "paper";
-            return "seissors";
+            return "scissors";
         }
     }
     class RockPaperScissors
@@ -58,7 +58,7 @@ namespace MidtermBonus
 
             while (true)
             {
-                Console.WriteLine("****Rock Paper Seissors, Start!!****");
+                Console.WriteLine("****Rock Paper Scissors, Start!!****");
                 Console.WriteLine("You Have " + h.GetPoints() + " Points");
 
                 Console.WriteLine("Please input your choice : rock,paper or scissors.");
@@ -73,7 +73,7 @@ namespace MidtermBonus
                 }
                 else
                 {
-                    if ((hIn.ToLower().Equals("scissors") && cIn.ToLower().Equals("paper"))||(hIn.ToLower().Equals("paper") && cIn.ToLower().Equals("rock"))||(hIn.ToLower().Equals("rock") && cIn.ToLower().Equals("seissors")))
+                    if ((hIn.ToLower().Equals("scissors") && cIn.ToLower().Equals("paper"))||(hIn.ToLower().Equals("paper") && cIn.ToLower().Equals("rock"))||(hIn.ToLower().Equals("rock") && cIn.ToLower().Equals("scissors")))
                     {
                         Console.WriteLine("You Win");
                         h.WinRound();
