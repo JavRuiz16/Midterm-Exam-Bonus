@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RPS
+namespace MidtermBonus
 {
-    class HumanPlayer
+    class Player
     {
         private int points;
-        public HumanPlayer(int initial)
+        public Player(int initial)
         {
             points = initial;
         }
@@ -36,7 +36,7 @@ namespace RPS
             return s;
         }
     }
-    class ComputerPlayer
+    class Computer
     {
         public string ComputerDecision()
         {

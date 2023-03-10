@@ -1,7 +1,11 @@
 # Midterm-Exam-Bonus
 
 CIDM 2315 Midterm Exam Bonus Question (20 points)
+
+
 Grading Rubric:
+
+
 The points of this Bonus Question will be added to your Midterm Exam Grade when calculating the final weighted grade at the end of the semester.
 Students should complete this Bonus Question individually. You can get help from Google, but the instructor will not help you to do this Bonus Question.
 The grader will run the whole program at first. If there are errors, the student will lose 10 points on this question. Then grader will check each C# class in detail.
