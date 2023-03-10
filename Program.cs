@@ -53,8 +53,8 @@ namespace MidtermBonus
     {
         static void Main(string[] args)
         {
-            HumanPlayer h = new HumanPlayer(5);
-            ComputerPlayer c = new ComputerPlayer();
+            Player h = new Player(5);
+            Computer c = new Computer();
 
             while (true)
             {
